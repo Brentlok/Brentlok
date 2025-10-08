@@ -1,7 +1,6 @@
-## Hi there 👋
-### I'm Frontend Developer focused on making fun & type safe stuff 🧙‍♂️
+### Focused on making fun & type safe stuff 🧙‍♂️
 
-I'm also the creator of [stan-js](https://github.com/codemask-labs/stan-js) 🦫
+Creator of [stan-js](https://github.com/codemask-labs/stan-js) 🦫, uniwind 🍃 and [unistyles](https://github.com/jpudysz/react-native-unistyles)
 
 ⚐ Based in Rzeszów, Poland
 
