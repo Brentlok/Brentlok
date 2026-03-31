@@ -29,6 +29,4 @@ I love creating tools that make developers' lives easier. Here is my current ope
 
 <br />
 
-<div align="center">
-  <img src="https://c.tenor.com/78XYoj-iUxsAAAAC/tenor.gif" alt="Hacking GIF" width="300" />
-</div>
+<img src="./killua-gif.gif" alt=" " width="300" />
